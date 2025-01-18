@@ -52,6 +52,11 @@ pip install customtkinter pandas matplotlib sqlite3
    ```bash
    python main.py
    ```
+## Screenshots:
+
+### Main Interface
+![Employee Management System](Screenshot/Screenshot 2025-01-18 163114.png)
+
 ## Future Improvements:
 - Implement user authentication and authorization (e.g., admin and user roles).
 - Improve the user interface with more interactive elements.
